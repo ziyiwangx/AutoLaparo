@@ -4,7 +4,7 @@
 
 This repository contains code and benchmarks proposed in AutoLaparo dataset. 
 
-Paper: [AutoLaparo: A New Dataset of Integrated Multi-tasks for Image-guided Surgical Automation in Laparoscopic Hysterectomy](https://github.com/ziyiwangx/AutoLaparo)
+Paper: [AutoLaparo: A New Dataset of Integrated Multi-tasks for Image-guided Surgical Automation in Laparoscopic Hysterectomy](https://arxiv.org/abs/2208.02049)
 
 Dataset available: <https://autolaparo.github.io>
 
@@ -63,8 +63,14 @@ Reference benchmarks:
 
 If you use the dataset, code or benchmark results for your research, please cite:
 
-Ziyi Wang, Bo Lu, Yonghao Long, Fangxun Zhong, Tak-Hong Cheung, Qi Dou, and Yunhui Liu, _AutoLaparo: A New Dataset of Integrated Multi-tasks for Image-guided Surgical Automation in Laparoscopic Hysterectomy_, MICCAI, 2022.
-
+```
+@article{wang2022autolaparo,
+  title={AutoLaparo: A New Dataset of Integrated Multi-tasks for Image-guided Surgical Automation in Laparoscopic Hysterectomy},
+  author={Wang, Ziyi and Lu, Bo and Long, Yonghao and Zhong, Fangxun and Cheung, Tak-Hong and Dou, Qi and Liu, Yunhui},
+  journal={arXiv preprint arXiv:2208.02049},
+  year={2022}
+}
+```
 
 ### Questions
 
