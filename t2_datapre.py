@@ -71,9 +71,9 @@ def get_img_label(label_src_dir, frame_save_path, data_save_path):
 
 if __name__ == "__main__":
 	video_src_path = "./video_src_path/"
-	label_src_dir = "./camera_motion_label.txt"
+	label_src_dir = "./laparoscope_motion_label.txt"
 	frame_save_path = "./frame_save_path/"
-	data_save_path = "./data_save_path/camera_motion_data_train170_val57_test73.pkl"
+	data_save_path = "./data_save_path/laparoscope_motion_data_train170_val57_test73.pkl"
 	if not os.path.exists(frame_save_path):
 		os.mkdir(frame_save_path)
 
