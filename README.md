@@ -72,6 +72,9 @@ If you use the dataset, code or benchmark results for your research, please cite
 }
 ```
 
+### License
+This dataset is released under license [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en). The released dataset is provided only for academic research, NOT for commercial use. 
+
 ### Questions
 
 For further questions, please contact 'ziyiwangx@gmail.com'
